@@ -16,9 +16,9 @@ Can you find the flag in [file](./strings) without running it?
 
 ## Solution
 
-Downloading the file named strings, we can use the `strings` command to print the printable characters in the file.
+downloading the file named strings, we can use the `strings` command to print the printable characters in the file.
 
- In order to parse through the file, we use grep to search for the substring `picoCTF`, as that will be our flag!
+ in order to parse through the file, we use grep to search for the substring `picoCTF`, as that will be our flag!
 
 running `strings strings | grep picoCTF` yields the result
 ```

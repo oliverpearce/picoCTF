@@ -16,7 +16,7 @@ Do you know how to move between directories and read files in the shell? Start t
 
 ## Solution
 
-Using the provided command `ssh ctf-player@venus.picoctf.net -p 54585` to ssh into ctf-player, and after entering the password `481e7b14`, we gain access to the server! 
+using the provided command `ssh ctf-player@venus.picoctf.net -p 54585` to ssh into ctf-player, and after entering the password `481e7b14`, we gain access to the server! 
 
 using the `ls` command, we find a file called `1of3.flag.txt` which has the contents 
 ```
