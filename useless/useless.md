@@ -17,7 +17,7 @@ Password: password
 
 ## Hints
 
-None
+(none)
 
 ## Solution
 

@@ -24,7 +24,7 @@ according to the first hint, it says that crypto-currency abuse databases exist,
 
 putting in the `1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX` address yields numerous reports, and looking through the reports we find the last one to be "More information here: https://blog.avira.com/petya-strikes-back/"!
 
-Following this link, we find that the ransomware is petya, and inputting the flag in accordance to the instructions we get `picoCtf{Petya}`.
+following this link, we find that the ransomware is petya, and inputting the flag in accordance to the instructions we get `picoCtf{Petya}`.
 
 ## Flag
 

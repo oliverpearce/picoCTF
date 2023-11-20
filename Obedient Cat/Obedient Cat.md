@@ -18,12 +18,12 @@ This file has a flag in plain sight (aka "in-the-clear"). [Download flag.](./fla
 
 ## Solution
 
-Download file named "flag"
-and use `cat flag` to print the contents
+downloading the file named "flag"
+and using `cat flag` to print the contents of the file, we get
 ```
 picoCTF{s4n1ty_v3r1f13d_f28ac910}
 ``` 
-now the flag is found!
+which is our flag!
 
 ## Flag
 
